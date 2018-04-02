@@ -49,8 +49,8 @@ plugins=(
 )
 
 POWERLEVEL9K_MODE='awesome-patched'
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon status context dir dir_writable vcs)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(time status nvm node_version)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon status context dir dir_writable newline vcs)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(time node_version)
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
 POWERLEVEL9K_DIR_WRITABLE_FORBIDDEN_FOREGROUND="white"
 POWERLEVEL9K_STATUS_VERBOSE=false
