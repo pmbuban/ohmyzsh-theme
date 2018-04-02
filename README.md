@@ -8,12 +8,12 @@
 
 ### Import iterm color settings
 
-![Iterm color settings][./colors.png]
+![Iterm color settings][https://github.com/pmbuban/ohmyzsh-theme/blob/master/colors.png?raw=true]
 
 ### Change iterm fonts
 
-![Iterm fonts][./fonts.png]
+![Iterm fonts][https://github.com/pmbuban/ohmyzsh-theme/blob/master/fonts.png?raw=true]
 
 ##Preview
 
-![Preview][./theme-sample.png]
+![Preview][https://github.com/pmbuban/ohmyzsh-theme/blob/master/theme-sample.png?raw=true]
